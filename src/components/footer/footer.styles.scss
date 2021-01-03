@@ -1,0 +1,22 @@
+.footer{
+    // height: 0px;
+    padding: 5px;
+    color: whitesmoke;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+
+    .binary-info{
+        .red-info{
+            border: 2px solid red;
+        }
+
+        .green-info{
+            border: 2px solid green;
+        }
+
+        .blue-info{
+            border: 2px solid blue;
+        }
+    }
+}
